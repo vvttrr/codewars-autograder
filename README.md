@@ -1,5 +1,5 @@
 # codewars-autograder
-I use this tool to check if students have completed certain assignments that I have assigned on the codewars website.
+I use this tool to check if students have completed certain assignments that I have assigned on https://www.codewars.com
 
 
 - written in Python & Py Notebook
